@@ -1,0 +1,12 @@
+
+/******** API Endpoints *******/
+
+[] Register a user
+[] Login a user
+[] Who am I
+[] Add new product
+[] update a product
+[] Get all product
+[] Get singal product
+[] Delete a product
+
